@@ -1,4 +1,4 @@
-# Git Stash
+# Git Stash commands
 Purpose: Temporarily save your uncommitted changes without committing them, so you can switch branches or pull updates.
 
 # Save current changes
